@@ -343,6 +343,7 @@
 - [EJ](https://github.com/3jc24)
 - [Eleazu Osita Ibe](https://github.com/BlackBond06)
 - [Matthew West](https://github.com/MattWestGH)
+- [Weston Baker](https://github.com/westbestern)
 - [Mengstab Ketemaw](https://github.com/mengstabketemaw)
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali ﾃ奔 can ](https://github.com/Rhipheus)
